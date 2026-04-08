@@ -1,1 +1,1 @@
-# AIRDROP-ILITY-SEASON-1
+#Initialize repository with ITILITY project research structure
