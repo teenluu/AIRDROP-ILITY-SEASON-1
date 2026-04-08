@@ -3,3 +3,4 @@ Add introduction describing ITILITY vision and core objectives
 Create overview section explaining ITILITY ecosystem architecture
 Document key utility components supporting Web3 integration
 Add explanation of platform functionality and user interaction flow
+Include section describing scalability and infrastructure capabilities
