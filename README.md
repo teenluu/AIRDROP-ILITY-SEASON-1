@@ -7,3 +7,4 @@ Include section describing scalability and infrastructure capabilities
 Update README with ITILITY roadmap highlights and development direction
 Add notes about ecosystem use cases and practical applications
 Improve documentation structure and refine technical explanations
+Finalize first draft of ITILITY network research documentation
